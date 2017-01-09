@@ -13,8 +13,7 @@
         PhoneGap Team , anvendt af Lone Osterlund
     </author>
 	
-	<content src="Coords.html" />
-    <content src="test.js" />
+	<content src="Index.html" />
 
     
 	<preference name="DisallowOverscroll" value="true" />
